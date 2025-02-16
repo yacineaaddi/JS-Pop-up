@@ -84,4 +84,18 @@ p {
   z-index: 5;
 }
 
+/*----------Responsive For Mobile Version--------------------*/
 
+@media only screen and (max-width: 600px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+    font-size: 2.1rem;
+    margin-bottom: 2rem;
+  }
+}
