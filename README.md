@@ -1,1 +1,1 @@
-Pop-up project - README file :
+Pop-up project - README file 
