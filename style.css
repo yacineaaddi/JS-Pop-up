@@ -10,6 +10,7 @@ html {
 }
 
 body {
+  background: linear-gradient(to top left, #28b487, #7dd56f);
   font-family: sans-serif;
   color: #333;
   line-height: 1.5;
@@ -18,7 +19,6 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background: linear-gradient(to top left, #28b487, #7dd56f);
 }
 
 .show-popup {
@@ -53,8 +53,6 @@ p {
   font-size: 1.8rem;
 }
 
-/* -------------------------- */
-/* CLASSES TO MAKE popup WORK */
 .hidden {
   display: none;
 }
