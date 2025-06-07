@@ -1,12 +1,12 @@
-# JS Pop-up
+# 📦 JS Pop-up
 
 A simple pop-up modal project built with HTML, CSS, and JavaScript. It demonstrates how to create and control a modal window using basic front-end technologies.
 
-## Demo
+## 🔗 Demo
 
 _A live demo link will be added here soon._
 
-## Features
+## ✨ Features
 
 - **Modal Window**: Displays a pop-up window over the main content.
 
@@ -16,7 +16,7 @@ _A live demo link will be added here soon._
 
 - **Smooth Transitions**: Fade-in and fade-out effects enhance user experience.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -39,15 +39,15 @@ _A live demo link will be added here soon._
 
    Or simply double-click the `index.html` file.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **HTML**: Provides the structure of the modal and page content.
+- 💻 **HTML**: Provides the structure of the modal and page content.
 
-- **CSS**: Styles the modal, overlay, and transitions.
+- 🎨 **CSS**: Styles the modal, overlay, and transitions.
 
-- **JavaScript**: Handles the logic for opening and closing the modal.
+- ⚙️ **JavaScript**: Handles the logic for opening and closing the modal.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 JS-Pop-up/
@@ -58,15 +58,15 @@ JS-Pop-up/
 └── .gitignore
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
