@@ -82,8 +82,6 @@ p {
   z-index: 5;
 }
 
-/*----------Responsive For Mobile Version--------------------*/
-
 @media only screen and (max-width: 600px) {
   body {
     display: flex;
